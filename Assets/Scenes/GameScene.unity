@@ -121,12 +121,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!4 &64166424 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 820293389363229220, guid: 30c75a6fa353e4b47958b63396d6df12,
-    type: 3}
-  m_PrefabInstance: {fileID: 820293389408512060}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &81337415
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -287,7 +281,7 @@ MonoBehaviour:
   m_ActivateUsage: 2
   m_UIPressUsage: 2
   m_AxisToPressThreshold: 0.1
-  m_ModelPrefab: {fileID: 218165426150728484}
+  m_ModelPrefab: {fileID: 414912, guid: e6ba3498ffa1e534b91a07264266e6b8, type: 3}
   m_ModelTransform: {fileID: 0}
   m_AnimateModel: 0
   m_ModelSelectTransition: 
@@ -669,7 +663,7 @@ MonoBehaviour:
   m_ActivateUsage: 2
   m_UIPressUsage: 2
   m_AxisToPressThreshold: 0.1
-  m_ModelPrefab: {fileID: 64166424}
+  m_ModelPrefab: {fileID: 422740, guid: ba1fa4a8c66106b4988c88fe4b8e8502, type: 3}
   m_ModelTransform: {fileID: 0}
   m_AnimateModel: 1
   m_ModelSelectTransition: 
@@ -1177,12 +1171,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f2f0bef93fcbb4727bdcea8cbbc0d963, type: 3}
---- !u!4 &218165426150728484 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5566295759964599303, guid: f2f0bef93fcbb4727bdcea8cbbc0d963,
-    type: 3}
-  m_PrefabInstance: {fileID: 218165426150728483}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &820293389408512060
 PrefabInstance:
   m_ObjectHideFlags: 0
