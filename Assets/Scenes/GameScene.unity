@@ -817,6 +817,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 1
   inputSource: 4
+  gravity: -9.81
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 4294967295
 --- !u!1 &918545872
 GameObject:
   m_ObjectHideFlags: 0
