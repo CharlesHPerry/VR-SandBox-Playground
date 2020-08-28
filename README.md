@@ -11,7 +11,7 @@ Currently the game is playable but rather empty, consisting of no more than a se
 - A dummy that can be interacted with.
 - A more complex terrrain and set of textures to help the look of the game world.
 - The ability to save the current world state.
-![image of gameplay](gameplay.png)
+![image of gameplay](Sandbox.png)
 If you are interested in playing the game I do not currently have it available anywhere on the internet, but if you send me a message or email I can send you the apk file to place on your VR headset.
 ## Special Thanks
 Special thanks to Valem (https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw) and this Medium article(https://medium.com/@sofaracing/how-to-develop-for-oculus-quest-on-macos-with-unity-5aa487b80d13) for a comprehensive guide to getting started with VR development in Unity.
